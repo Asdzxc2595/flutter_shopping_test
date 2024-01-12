@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\ฝึกงาน\ฝึก\app\ฝึก\test2\build\windows\x64\CMakeFiles\0e37b7b3104fb61258c0e57b8a63bdcf\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2ED7AFA5-EECD-3558-87FC-FAB3343AC908}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

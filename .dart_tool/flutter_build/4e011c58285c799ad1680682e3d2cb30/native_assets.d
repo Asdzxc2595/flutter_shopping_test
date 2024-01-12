@@ -1,0 +1,1 @@
+ D:\\ฝึกงาน\\ฝึก\\app\\ฝึก\\test2\\.dart_tool\\flutter_build\\4e011c58285c799ad1680682e3d2cb30\\native_assets.yaml: 
