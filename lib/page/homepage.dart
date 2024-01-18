@@ -64,26 +64,39 @@ class homepages extends StatelessWidget {
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
       floatingActionButton: FloatingActionButton.large(
-        child: Image.asset('assets/images/icons.png'),
-        shape: CircleBorder(),
-        backgroundColor: Color.fromARGB(255, 88, 22, 229),
+        shape: const CircleBorder(),
+        backgroundColor: const Color.fromARGB(255, 88, 22, 229),
         onPressed: () {},
         tooltip: 'logo',
-        
+        child: Image.asset('assets/images/icons.png'),
       ),
       bottomNavigationBar: BottomAppBar(
         child: SizedBox(
-          height: 180,
+          height: 56, // Set a height that suits your design
           child: Row(
-            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+            mainAxisAlignment: MainAxisAlignment.spaceAround,
             children: [
-              IconButton(onPressed: () {}, icon: Icon(Icons.home)),
-              IconButton(
-                  onPressed: () {
-                    Navigator.push(context,
-                        MaterialPageRoute(builder: (context) => Profile()));
-                  },
-                  icon: Icon(Icons.pages))
+              Expanded(
+                child: Container(
+                  decoration: const BoxDecoration(color: Color(0xFF031C3E)),
+                  child: IconButton(
+                    onPressed: () {
+                    },
+                    icon: const Icon(Icons.home, color: Colors.white),
+                  ),
+                ),
+              ),
+              Expanded(
+                child: Container(
+                  decoration: const BoxDecoration(color: Color(0xFF00439C)),
+                  child: IconButton(
+                    onPressed: () {
+                    Navigator.push(context,MaterialPageRoute(builder: (context)=>Profile()));
+                    },
+                    icon: const Icon(Icons.person, color: Colors.white),
+                  ),
+                ),
+              ),
             ],
           ),
         ),
