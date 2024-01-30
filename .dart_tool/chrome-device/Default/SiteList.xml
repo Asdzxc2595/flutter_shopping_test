@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<site-list version="59">
+<site-list version="96">
  <site url="0rga.org">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
@@ -1015,9 +1015,6 @@
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
  <site url="appro.ae">
-  <open-in allow-redirect="true">MSEdge</open-in>
- </site>
- <site url="apps.office.com">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
  <site url="apps.outstem.io">
@@ -4653,9 +4650,6 @@
  <site url="cpa.mynavi.jp">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
- <site url="cpc.geely.com">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
  <site url="cpdhub.co">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
@@ -4742,9 +4736,6 @@
  </site>
  <site url="criterionpic.com">
   <open-in allow-redirect="true">MSEdge</open-in>
- </site>
- <site url="crm.milkt.co.kr">
-  <open-in allow-redirect="true">IE11</open-in>
  </site>
  <site url="crm10.dynamics.com">
   <open-in allow-redirect="true">MSEdge</open-in>
@@ -5730,15 +5721,6 @@
  <site url="eatonshillss.eq.edu.au">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
- <site url="ebank.fudian-bank.com">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="ebank.gx966888.com/pb_jump.html">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="ebank.tzbank.com">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
  <site url="ebino-kankou.com">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
@@ -6123,9 +6105,6 @@
  <site url="eromangass.eq.edu.au">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
- <site url="erp.samsungfire.com">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
  <site url="ers.hjit.co.kr:90">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
@@ -6307,9 +6286,6 @@
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
  <site url="exactrealty.co.uk">
-  <open-in allow-redirect="true">MSEdge</open-in>
- </site>
- <site url="excel.office.com">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
  <site url="exchangemarketplace.com">
@@ -7644,9 +7620,6 @@
  <site url="generatewealth.co.nz">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
- <site url="genesis.tempstaff.co.jp">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
  <site url="geniebook.com">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
@@ -8177,9 +8150,6 @@
  </site>
  <site url="grid-beauty.com">
   <open-in allow-redirect="true">MSEdge</open-in>
- </site>
- <site url="griffin3.hk.yusen-logistics.com">
-  <open-in allow-redirect="true">IE11</open-in>
  </site>
  <site url="griffinss.eq.edu.au">
   <open-in allow-redirect="true">MSEdge</open-in>
@@ -9111,9 +9081,6 @@
  <site url="hy-vee.com">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
- <site url="hy.seiip.com/sesi">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
  <site url="hybridwork.cybozu.co.jp">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
@@ -9150,10 +9117,6 @@
  <site url="ib.thefmbank.com">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
- <site url="ibank.bankofshanghai.com">
-  <compat-mode>IE8</compat-mode>
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
  <site url="ibanking.foresight.bank">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
@@ -9180,9 +9143,6 @@
  </site>
  <site url="icloud.com">
   <open-in allow-redirect="true">MSEdge</open-in>
- </site>
- <site url="icoa.cn/mov">
-  <open-in allow-redirect="true">IE11</open-in>
  </site>
  <site url="icouch.me">
   <open-in allow-redirect="true">MSEdge</open-in>
@@ -10144,10 +10104,6 @@
  <site url="jrss13.com">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
- <site url="js96008.com">
-  <compat-mode>IE8</compat-mode>
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
  <site url="jshosting.co.uk">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
@@ -10678,9 +10634,6 @@
  </site>
  <site url="kmong.com">
   <open-in allow-redirect="true">MSEdge</open-in>
- </site>
- <site url="kms.chamc.com.cn">
-  <open-in allow-redirect="true">IE11</open-in>
  </site>
  <site url="knowbe4.com">
   <open-in allow-redirect="true">MSEdge</open-in>
@@ -11866,9 +11819,6 @@
  </site>
  <site url="mail.google.com">
   <open-in allow-redirect="true">MSEdge</open-in>
- </site>
- <site url="mail.on-nara.go.kr">
-  <open-in allow-redirect="true">IE11</open-in>
  </site>
  <site url="mail.yahoo.com">
   <open-in allow-redirect="true">MSEdge</open-in>
@@ -13286,9 +13236,6 @@
  <site url="myengage360.com">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
- <site url="myerp.countrygarden.com.cn">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
  <site url="myeschoolhome.com">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
@@ -13558,9 +13505,6 @@
  </site>
  <site url="neilson.co.uk">
   <open-in allow-redirect="true">MSEdge</open-in>
- </site>
- <site url="neis.goe.go.kr">
-  <open-in allow-redirect="true">IE11</open-in>
  </site>
  <site url="nejremeslnici.cz">
   <open-in allow-redirect="true">MSEdge</open-in>
@@ -14357,15 +14301,6 @@
  <site url="outletcity.com">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
- <site url="outlook.live.com">
-  <open-in allow-redirect="true">MSEdge</open-in>
- </site>
- <site url="outlook.office.com">
-  <open-in allow-redirect="true">MSEdge</open-in>
- </site>
- <site url="outlook.office365.com">
-  <open-in allow-redirect="true">MSEdge</open-in>
- </site>
  <site url="oventure.co.jp">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
@@ -14458,9 +14393,6 @@
  </site>
  <site url="pantaya.com">
   <open-in allow-redirect="true">MSEdge</open-in>
- </site>
- <site url="paperless.quantatw.com">
-  <open-in allow-redirect="true">IE11</open-in>
  </site>
  <site url="paperlounge.de">
   <open-in allow-redirect="true">MSEdge</open-in>
@@ -14617,9 +14549,6 @@
  </site>
  <site url="pbc-shs.eq.edu.au">
   <open-in allow-redirect="true">MSEdge</open-in>
- </site>
- <site url="pbccrc.org.cn">
-  <open-in allow-redirect="true">IE11</open-in>
  </site>
  <site url="pbssocal.org">
   <open-in allow-redirect="true">MSEdge</open-in>
@@ -15066,9 +14995,6 @@
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
  <site url="powerplace.co.jp">
-  <open-in allow-redirect="true">MSEdge</open-in>
- </site>
- <site url="powerpoint.office.com">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
  <site url="powersystemstoday.co.uk">
@@ -16939,9 +16865,6 @@
  </site>
  <site url="skylawnmemorialpark.com">
   <open-in allow-redirect="true">MSEdge</open-in>
- </site>
- <site url="skynet.skhynix.com">
-  <open-in allow-redirect="true">IE11</open-in>
  </site>
  <site url="skypeer.tokuiku.org">
   <open-in allow-redirect="true">MSEdge</open-in>
@@ -19538,9 +19461,6 @@
  <site url="virtualvisitwaiting.partners.org">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
- <site url="visio.office.com">
-  <open-in allow-redirect="true">MSEdge</open-in>
- </site>
  <site url="visionproducts.us">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
@@ -20081,9 +20001,6 @@
  <site url="whproperties.co.za">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
- <site url="whsggzy.wuhu.gov.cn">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
  <site url="widebayschoolsport.eq.edu.au">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
@@ -20313,9 +20230,6 @@
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
  <site url="wooroolinss.eq.edu.au">
-  <open-in allow-redirect="true">MSEdge</open-in>
- </site>
- <site url="word.office.com">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
  <site url="wordclouds.com">
@@ -20798,9 +20712,6 @@
  <site url="www.anwalt.de/login">
   <open-in allow-redirect="true">NEUTRAL</open-in>
  </site>
- <site url="www.apollon.local">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
  <site url="www.arenadannero.se">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
@@ -21199,9 +21110,6 @@
  </site>
  <site url="www.esri.com">
   <open-in allow-redirect="true">MSEdge</open-in>
- </site>
- <site url="www.etrading.cn">
-  <open-in allow-redirect="true">IE11</open-in>
  </site>
  <site url="www.exso.no">
   <open-in allow-redirect="true">MSEdge</open-in>
@@ -21887,17 +21795,11 @@
  <site url="www.nysra.org">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
- <site url="www.office.com">
-  <open-in allow-redirect="true">MSEdge</open-in>
- </site>
  <site url="www.okishokyo.com">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
  <site url="www.omig.com/agencyaccess">
   <open-in allow-redirect="true">MSEdge</open-in>
- </site>
- <site url="www.on-nara.go.kr">
-  <open-in allow-redirect="true">IE11</open-in>
  </site>
  <site url="www.order-cheese.co.jp">
   <open-in allow-redirect="true">MSEdge</open-in>
@@ -22378,9 +22280,6 @@
  </site>
  <site url="www.volgistics.com">
   <open-in allow-redirect="true">MSEdge</open-in>
- </site>
- <site url="www.w4c.go.kr">
-  <open-in allow-redirect="true">IE11</open-in>
  </site>
  <site url="www.wardsofkent.co.uk">
   <open-in allow-redirect="true">MSEdge</open-in>
@@ -22934,9 +22833,6 @@
  <site url="zarion.com">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
- <site url="zcoas.zoomx.net/zcoas">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
  <site url="zenjukyo.gr.jp">
   <open-in allow-redirect="true">MSEdge</open-in>
  </site>
@@ -23014,132 +22910,5 @@
  </site>
  <site url="zyrtec.com">
   <open-in allow-redirect="true">MSEdge</open-in>
- </site>
- <site url="http://app.honglitronic.com:8009/efnet">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="http://bssupplier.soma.hk">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="http://cmp.tfcn.com.cn">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="http://crm.kehua.com:8010">
-  <compat-mode>IE7</compat-mode>
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="http://erp.panemirates.ae:8181">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="http://ipos.naivee.com/ipos">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="http://jzsgl.coc.gov.cn">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="http://mh.wut.edu.cn">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="http://oa.crsg.cn:8888/portal">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="http://oa.djtu.edu.cn">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="http://oa.ranken.com.cn/services">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="http://oa.zgysqy.com:8888/services">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="http://pmzq.auction.artron.net/pmzq/christies2012">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="http://tfcmp.tfcn.com.cn">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="http://xjxtczyh.xtczyh.com">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://cnpos.chowsangsang.com">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://co.hfbank.com.cn">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://corporatebank.bjrcb.com">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://corporbank-simp.icbc.com.cn">
-  <compat-mode>IE8</compat-mode>
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://dbank.hxb.com.cn">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://dm.ynby.cn">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://ebank.sdb.com.cn">
-  <compat-mode>IE7</compat-mode>
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://ebank.ynrcc.com">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://firmadigital.scba.gov.ar">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://free.icoa.cn/v">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://gov.epeople.go.kr">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://grdms.bit.edu.cn">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://i-hn.meiyijia.com.cn">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://ibank.bankofdl.com">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://jy.sdada.edu.cn">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://klef.gbe.kr">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://klef.gne.go.kr">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://klef.goe.go.kr">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://klef.sen.go.kr">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://os.ezca.org">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://rfid.chowtaifook.sz">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://sbank.hxb.com.cn">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://sso.int.tepco.co.jp">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://uk.pinewooddms.training">
-  <compat-mode>IE8</compat-mode>
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://v.beeb.com.cn">
-  <open-in allow-redirect="true">IE11</open-in>
- </site>
- <site url="https://www.zj96596.com">
-  <open-in allow-redirect="true">IE11</open-in>
  </site>
 </site-list>

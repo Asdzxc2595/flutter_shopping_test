@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:test2/page/homepage.dart';
 
 class Profile extends StatefulWidget {
   const Profile({super.key});
@@ -112,26 +111,40 @@ class _ProfileState extends State<Profile> {
         ),
       ]),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
+      floatingActionButton: FloatingActionButton.large(
+        shape: const CircleBorder(),
+        backgroundColor: const Color.fromARGB(255, 88, 22, 229),
+        onPressed: () {},
+        tooltip: 'logo',
+        child: Image.asset('assets/images/icons.png'),
+      ),
       bottomNavigationBar: BottomAppBar(
-        shape: const CircularNotchedRectangle(),
-        notchMargin: 10,
         child: SizedBox(
-          height: 180,
+          height: 56, // Set a height that suits your design
           child: Row(
-            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+            mainAxisAlignment: MainAxisAlignment.spaceAround,
             children: [
-              IconButton(
-                  onPressed: () {
-                    Navigator.push(context,
-                        MaterialPageRoute(builder: (context) => homepages()));
-                  },
-                  icon: const Icon(Icons.home)),
-              IconButton(
-                  onPressed: () {
-                    Navigator.push(context,
-                        MaterialPageRoute(builder: (context) => const Profile()));
-                  },
-                  icon: const Icon(Icons.account_circle_sharp))
+              Expanded(
+                child: Container(
+                  decoration: const BoxDecoration(color: Color(0xFF031C3E)),
+                  child: IconButton(
+                    onPressed: () {
+                    },
+                    icon: const Icon(Icons.home, color: Colors.white),
+                  ),
+                ),
+              ),
+              Expanded(
+                child: Container(
+                  decoration: const BoxDecoration(color: Color(0xFF00439C)),
+                  child: IconButton(
+                    onPressed: () {
+                    Navigator.push(context,MaterialPageRoute(builder: (context)=>Profile()));
+                    },
+                    icon: const Icon(Icons.person, color: Colors.white),
+                  ),
+                ),
+              ),
             ],
           ),
         ),
