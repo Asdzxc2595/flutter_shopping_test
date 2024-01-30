@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return MaterialApp(debugShowCheckedModeBanner: false,
       title: 'he yaaaaaa',theme: ThemeData(primaryColor: Colors.amber),
       home: homepages(),
     );

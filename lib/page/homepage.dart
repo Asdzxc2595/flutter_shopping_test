@@ -46,18 +46,24 @@ class homepages extends StatelessWidget {
                   width: 250,
                   height: 150,
                 ),
-                title: Column(
-                    mainAxisAlignment: MainAxisAlignment.start,
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Text(models.id),
-                      Text(models.name),
-                      Text('ราคา ${models.price} ฿'),
-                    ]),
+                title: Row(
+                  children: [
+                    Column(
+                      mainAxisAlignment: MainAxisAlignment.start,
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(models.id),
+                        Text(models.name),
+                        Text('ราคา ${models.price} ฿'),
+                        
+                      ],
+                    ),
+                  ]
+                ),trailing: Icon(Icons.arrow_back_ios),
               ),
               const Divider(
                 height: 10,
-              )
+              ),
             ],
           );
         },
@@ -70,35 +76,33 @@ class homepages extends StatelessWidget {
         tooltip: 'logo',
         child: Image.asset('assets/images/icons.png'),
       ),
-      bottomNavigationBar: BottomAppBar(
-        child: SizedBox(
-          height: 56, // Set a height that suits your design
-          child: Row(
-            mainAxisAlignment: MainAxisAlignment.spaceAround,
-            children: [
-              Expanded(
-                child: Container(
-                  decoration: const BoxDecoration(color: Color(0xFF031C3E)),
-                  child: IconButton(
-                    onPressed: () {
-                    },
-                    icon: const Icon(Icons.home, color: Colors.white),
-                  ),
+      bottomNavigationBar: SizedBox(
+        height: 46, // Set a height that suits your design
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.spaceAround,
+          children: [
+            Expanded(
+              child: Container(
+                decoration: const BoxDecoration(color: Color(0xFF031C3E)),
+                child: IconButton(
+                  onPressed: () {},
+                  icon: const Icon(Icons.home, color: Colors.white),
                 ),
               ),
-              Expanded(
-                child: Container(
-                  decoration: const BoxDecoration(color: Color(0xFF00439C)),
-                  child: IconButton(
-                    onPressed: () {
-                    Navigator.push(context,MaterialPageRoute(builder: (context)=>Profile()));
-                    },
-                    icon: const Icon(Icons.person, color: Colors.white),
-                  ),
+            ),
+            Expanded(
+              child: Container(
+                decoration: const BoxDecoration(color: Color(0xFF00439C)),
+                child: IconButton(
+                  onPressed: () {
+                    Navigator.push(context,
+                        MaterialPageRoute(builder: (context) => Profile()));
+                  },
+                  icon: const Icon(Icons.person, color: Colors.white),
                 ),
               ),
-            ],
-          ),
+            ),
+          ],
         ),
       ),
     );

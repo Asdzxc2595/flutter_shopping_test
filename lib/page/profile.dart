@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:test2/page/homepage.dart';
 
 class Profile extends StatefulWidget {
   const Profile({super.key});
@@ -31,9 +32,14 @@ class _ProfileState extends State<Profile> {
       body: Column(children: <Widget>[
         Padding(
             padding: const EdgeInsets.all(10),
-            child: Image.asset(
-              "assets/images/cow.jpg",
-              width: 150,
+            child: Container(
+              decoration: BoxDecoration(
+                  border: Border.all(color: Colors.black, width: 2),
+                  borderRadius: BorderRadius.circular(1)),
+              child: Image.asset(
+                "assets/images/cow.jpg",
+                width: 150,
+              ),
             )),
         Padding(
           padding: const EdgeInsets.all(10),
@@ -118,28 +124,30 @@ class _ProfileState extends State<Profile> {
         tooltip: 'logo',
         child: Image.asset('assets/images/icons.png'),
       ),
-      bottomNavigationBar: BottomAppBar(
-        child: SizedBox(
-          height: 56, // Set a height that suits your design
+
+      bottomNavigationBar: SizedBox(
+        height: 46, // Set a height that suits your design
+        child: Center(
           child: Row(
             mainAxisAlignment: MainAxisAlignment.spaceAround,
             children: [
               Expanded(
                 child: Container(
-                  decoration: const BoxDecoration(color: Color(0xFF031C3E)),
+                  decoration: const BoxDecoration(color: Color(0xFF00439C)),
                   child: IconButton(
-                    onPressed: () {
-                    },
+                    onPressed: () {Navigator.push(context,
+                          MaterialPageRoute(builder: (context) =>  homepages()));},
                     icon: const Icon(Icons.home, color: Colors.white),
                   ),
                 ),
               ),
               Expanded(
                 child: Container(
-                  decoration: const BoxDecoration(color: Color(0xFF00439C)),
+                  decoration: const BoxDecoration(color: Color(0xFF031C3E)),
                   child: IconButton(
                     onPressed: () {
-                    Navigator.push(context,MaterialPageRoute(builder: (context)=>Profile()));
+                      Navigator.push(context,
+                          MaterialPageRoute(builder: (context) => const Profile()));
                     },
                     icon: const Icon(Icons.person, color: Colors.white),
                   ),

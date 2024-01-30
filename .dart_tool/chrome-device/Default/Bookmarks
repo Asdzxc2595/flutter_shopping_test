@@ -1,5 +1,5 @@
 {
-   "checksum": "a606ded0006848c8f028491d3cf90422",
+   "checksum": "a299475a9b9cf410e51a49ba29021086",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -9,8 +9,6 @@
                "guid": "89d36fa7-596b-4db6-a321-7beac248a8fc",
                "id": "18",
                "name": "ASUS Homepage",
-               "show_icon": false,
-               "source": "import_fre",
                "type": "url",
                "url": "http://www.asus.com/"
             }, {
@@ -19,8 +17,6 @@
                "guid": "7c854bfb-1f58-41e9-b429-3e161782b558",
                "id": "19",
                "name": "ASUS Member",
-               "show_icon": false,
-               "source": "import_fre",
                "type": "url",
                "url": "https://account.asus.com/"
             } ],
@@ -30,7 +26,6 @@
             "guid": "7bbe5e5c-76ce-4d2c-a14f-71c5d99b9bd1",
             "id": "17",
             "name": "ASUS E-Service",
-            "source": "import_fre",
             "type": "folder"
          } ],
          "date_added": "13349499362416718",
@@ -38,8 +33,7 @@
          "date_modified": "0",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
-         "name": "แถบรายการโปรด",
-         "source": "unknown",
+         "name": "แถบบุ๊กมาร์ก",
          "type": "folder"
       },
       "other": {
@@ -49,8 +43,7 @@
          "date_modified": "0",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
-         "name": "รายการโปรดอื่นๆ",
-         "source": "unknown",
+         "name": "บุ๊กมาร์กอื่นๆ",
          "type": "folder"
       },
       "synced": {
@@ -60,11 +53,9 @@
          "date_modified": "0",
          "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
          "id": "3",
-         "name": "รายการโปรดในมือถือ",
-         "source": "unknown",
+         "name": "บุ๊กมาร์กบนอุปกรณ์เคลื่อนที่",
          "type": "folder"
       }
    },
-   "sync_metadata": "CosBCg4IiIECEgj0RlAajQEAABIAGlhsNFdoY3kwR096eXBaRjErWHYrajl3MkFBY28xK3BXTnZNZHRmQXdJQU9vZzlJSUhxaXQ4VEUxZDRwU1dVMVZiTld3NEVlTEdLVnp6dHpZTEZKMnp1Zz09IAEqGENoVXcyUTNrVGNYQ1dOZGtWZng0Zmc9PaAGDBKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRjYTE0Mzc0Ni1mZWE2LTViZWQtYmQ5OC03YjdjZjI5ZmM0YWEYACAAKAAwu9/Ty8MxOJ7l08vDMUCe5dPLwzFKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEqgBCBMSowEKHGdyV1N6MW9Vc1NSZUVoUEMyOG9qVGxBbTMxND0SJDdjODU0YmZiLTFmNTgtNDFlOS1iNDI5LTNlMTYxNzgyYjU1OBgAIAAoADC127eKzzE4tuO3is8xQLbjt4rPMUocUStTREI3UWduTElaK1FwM3ArQTROSktEN29BPVofIh2pNmNVV1NjL0hhNkhDS3IxeVdwNCtqNFBTMHpZPWUAAAAAEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGQ1MjJlODFmLTg3MWQtNTg1MS1hYTZhLWU2ZDBlZGFkYjVlNRgAIAAoADC239PLwzE40eTTy8MxQNHk08vDMUocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASpwEIERKiAQocUjJqWUdyVk52d1ZFZVlnTEpiYjZQUm5FbUZzPRIkN2JiZTVlNWMtNzZjZS00ZDJjLWExNGYtNzFjNWQ5OWI5YmQxGAAgACgAMLPbt4rPMTjm4reKzzFA5uK3is8xShxpTGRYdUdwQ2lsWnpZeUlrdkJSeGtBRzdCcW89Wh4iHHhXUE5VM3p1dE0zNGZDTjVYZTEwTzRFbnNQTT1lAAAAABKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQwZWE3ZGM4Mi1hNmZlLTUzOGYtYmRlZC1hMDczYWUyMzg2MzMYACAAKAAwtd/Ty8MxOKzk08vDMUCs5NPLwzFKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqcBCBISogEKHEZhdWpVNjh0OTFBWlFKTWo1Y3dMd2NkQjNwWT0SJDg5ZDM2ZmE3LTU5NmItNGRiNi1hMzIxLTdiZWFjMjQ4YThmYxgAIAAoADC027eKzzE4i+O3is8xQIvjt4rPMUocczA3Rk5paGNNT202SDhDOE1XMENna2doZk1FPVoeIhxSYXlTb2hjSEkzTStmSUJRTVhQQmNoZWZUWXM9ZQAAAAAwADgA",
    "version": 1
 }
